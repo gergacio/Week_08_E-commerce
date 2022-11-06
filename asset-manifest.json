@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/e-commerce.git/static/css/main.073c9b0a.css",
+    "main.js": "/e-commerce.git/static/js/main.45192d95.js",
+    "static/js/787.4d35a8bf.chunk.js": "/e-commerce.git/static/js/787.4d35a8bf.chunk.js",
+    "index.html": "/e-commerce.git/index.html",
+    "main.073c9b0a.css.map": "/e-commerce.git/static/css/main.073c9b0a.css.map",
+    "main.45192d95.js.map": "/e-commerce.git/static/js/main.45192d95.js.map",
+    "787.4d35a8bf.chunk.js.map": "/e-commerce.git/static/js/787.4d35a8bf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.45192d95.js"
+  ]
+}
